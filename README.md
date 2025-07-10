@@ -1,19 +1,6 @@
 # DroidKit:ADB Terminal Toolkit
 📱 DroidKit: ADB Terminal Toolkit Companion — Tutorials, FAQs, and feedback hub for DroidKit users. Learn how to unlock the full potential of ADB with step-by-step guides and community support.
 
-# 📘How to Enable and Connect ADB
-
-- [DroidKit:ADB Terminal Toolkit](#droidkitadb-terminal-toolkit)
-- [📘How to Enable and Connect ADB](#how-to-enable-and-connect-adb)
-  - [Enable ADB](#enable-adb)
-    - [Android 11+](#android-11)
-    - [Android 4.x+](#android-4x)
-    - [TV Box / Smart TV](#tv-box--smart-tv)
-  - [Video Tutorials](#video-tutorials)
-  - [FAQ](#faq)
-  - [Feedback](#feedback)
-  - [Learn adb](#learn-adb)
-
 ## Enable ADB
 
 ### Android 11+
