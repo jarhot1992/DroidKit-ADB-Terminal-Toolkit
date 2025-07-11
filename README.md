@@ -28,6 +28,8 @@ In progress — detailed guides will be available soon.
 In progress — detailed FAQ will be available soon.
 
 
+##### [📌Changelog](md/Changelog.md)
+
 ## Feedback
 - Email[]() support@nextaix.com
 
