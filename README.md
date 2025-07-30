@@ -23,14 +23,16 @@ This new version is just the beginning — more powerful features are on the way
 
 ## Enable ADB
 
-### Android 11+
+<h3 id="android11">Android 11+</h3>
+
 - **👍Official Guide**: [Google Developer Documentation](https://developer.android.com/studio/command-line/adb)
 - **🏆Video**: [Guide](https://youtube.com/shorts/cXCdcrxHBBg)
 - **👍Text Tutorial**: [Guide](./md/ConnectADBText.md)
 - **Video**: [Guide](https://www.youtube.com/watch?v=_JjpbufTMew)
 - **Illustrated**: [Guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openMobileADB11_13.md)
 
-### Android 4.x+
+<h3 id="android4x">Android 4.x+</h3>
+
 - **Official Guide**: [Google Developer Documentation](https://developer.android.com/studio/command-line/adb)
 - **Text Tutorial**: [Guide](./md/ConnectADBText.md)
 - **Illustrated**: [Guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openMobileADB4x_13.md)
