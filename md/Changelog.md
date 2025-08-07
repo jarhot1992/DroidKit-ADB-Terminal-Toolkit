@@ -14,3 +14,9 @@ All notable changes to this project will be documented in this file.
 ## [1.1.2] 2025-07-22
 - 🎉 Watch an ad to unlock all professional features for free!
 - 🔧 Improved connection stability for a smoother experience.
+
+## [1.1.6] 2025-08-05
+- 🔄 Brand-new connection process: The wireless connection method has been completely redesigned for improved stability and clearer operation.
+- 🧭 New connection wizard: Step-by-step guidance helps you connect your device with ease — perfect for new users.
+- 🛠️ Manual port configuration: If automatic port detection fails, you can now manually change the connection port.
+- 📱 Enhanced compatibility: Better support for a wide range of brands and device models.
