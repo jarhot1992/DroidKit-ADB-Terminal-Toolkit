@@ -22,6 +22,8 @@ This new version is just the beginning — more powerful features are on the way
 
 - **👍Official Guide**: [Google Developer Documentation](https://developer.android.com/studio/command-line/adb)
 - **🏆Video**: [Guide](https://youtube.com/shorts/cXCdcrxHBBg)
+- **🏆English Video**: [Guide](https://youtube.com/shorts/Zjt8qSgrt5s)
+- **🏆Español Video**: [Guía](https://youtube.com/shorts/DYwk9-93c_A)
 - **👍Text Tutorial**: [Guide](./md/ConnectADBText.md)
 - **Video**: [Guide](https://www.youtube.com/watch?v=_JjpbufTMew)
 - **Illustrated**: [Guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openMobileADB11_13.md)
