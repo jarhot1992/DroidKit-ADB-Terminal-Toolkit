@@ -21,10 +21,11 @@ This new version is just the beginning — more powerful features are on the way
 <h3 id="android11">Android 11+</h3>
 
 - **👍Official Guide**: [Google Developer Documentation](https://developer.android.com/studio/command-line/adb)
-- **🏆English Video**: [Guide](https://youtube.com/shorts/Zjt8qSgrt5s)
-- **🏆Español Video**: [Guía](https://youtube.com/shorts/DYwk9-93c_A)
-- **🏆English Video**: [Remote Guide](https://youtube.com/shorts/Jb5KRpowQ90)
-- **🏆Video**: [Guide](https://youtube.com/shorts/cXCdcrxHBBg)
+- **🏆Local connection video guide,Shizuku(Android 11+)**: [Video guide](https://youtube.com/shorts/2pkz4t4WURM)
+- **🏆Local connection video guide,Terminal (Original version, Android 4.x+)**: [Video guide](https://youtube.com/shorts/fYM5Vyw9-CA)
+- **🏆Remote connection video guide,Terminal (Original version, Android 4.x+)**: [Video guide](https://youtube.com/shorts/G7WFcSWrViQ)
+- **🏆Local connection video guide,General (New version, Android 4.x+)**: [Video guide](https://youtube.com/shorts/-z28THOjV40)
+- **🏆Remote connection video guide,General (New version, Android 4.x+)**: [Video guide](https://youtube.com/shorts/DZci8w72WT0)
 - **👍Text Tutorial**: [Guide](./md/ConnectADBText.md)
 - **Video**: [Guide](https://www.youtube.com/watch?v=_JjpbufTMew)
 - **Illustrated**: [Guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openMobileADB11_13.md)
