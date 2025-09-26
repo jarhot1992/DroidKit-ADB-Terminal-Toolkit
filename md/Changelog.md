@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.0.16] 2025-09-25
+1. Shell Terminal: Added quick input for common symbols and multi-line input support.
+2. Text Improvements: Refined wording for better readability.
+3. Feature Favorites: Support for bookmarking Feature pages.
+4. File Page: Improved UI for a clearer experience.
+5. Terminal Interaction: Terminal page now supports full-page scrolling.
+6. Help Center: Reorganized and optimized help content.
+7. Onboarding: Added beginner tips for smoother first-time use.
+8. Stability: Fixed several crash issues.
+
 ## [4.0.13] 2025-09-16
 1. ADB Update: Upgraded to 35.0.2, with support for 16K memory.
 2. Text Optimization: Improved some UI texts for better clarity.
