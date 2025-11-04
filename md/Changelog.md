@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [4.0.18] 2025-11-04
+1. Fixed an issue where the TV remote was not working on Fire TV devices.
+2. Reduced ad frequency and set ads to mute by default to minimize user interruption.
+3. Improved system stability and overall performance.
+4. Optimized the video connection tutorial for a better user experience.
+
 ## [4.0.16] 2025-09-25
 1. Shell Terminal: Added quick input for common symbols and multi-line input support.
 2. Text Improvements: Refined wording for better readability.
