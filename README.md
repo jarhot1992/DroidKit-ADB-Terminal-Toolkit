@@ -31,15 +31,10 @@
 - **Text Tutorial**: [Guide](./md/ConnectADBText.md)
 - **Illustrated**: [Guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openTVADB.md)
 
-
-## Video Tutorials
-In progress — detailed guides will be available soon.
-
-## FAQ
-In progress — detailed FAQ will be available soon.
+#### [📌FAQ](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit/blob/main/md/FAQ.md)
 
 
-##### [📌Changelog](md/Changelog.md)
+#### [📌Changelog](md/Changelog.md)
 
 ## Feedback
 - Email[]() support@nextaix.com
