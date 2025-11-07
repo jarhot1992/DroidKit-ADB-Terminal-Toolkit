@@ -23,7 +23,7 @@ Here you’ll find answers to some of the most common questions from our users.
     To support the continuous development and maintenance of the app, we rely on advertising revenue. This helps us keep the app running smoothly and improve it over time.
 
 4. ##### Privacy Security
-   The app does not collect or upload any personal data. It has been reviewed and approved by Google, and the latest version offers significantly enhanced security compared to older versions.
+   This app does not collect or upload any personal data. It has been reviewed and approved by Google, and the latest version offers significantly enhanced security compared to older versions.
 
 5. ##### Why are there trackers
    The trackers in the app come from the advertising SDKs, which are used only for measuring ad performance, not for collecting personal data. All SDKs have been reviewed and approved by Google, ensuring that no user information is leaked. We are committed to protecting your privacy and keeping your data safe.
