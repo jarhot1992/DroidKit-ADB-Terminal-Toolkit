@@ -4,7 +4,7 @@ Here you’ll find answers to some of the most common questions from our users.
 1. [Rollback to old version](#rollback-to-old-version)
 2. [Connection guide](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit)
 3. [Why are there ads](#why-are-there-ads)
-4. [Privacy & Security](#privacy-Security)
+4. [Privacy Security](#privacy-security)
 5. [Why are there trackers?](#why-are-there-trackers)
 6. [How do I unlock my device?](#how-do-i-unlock-my-device)
 7. [I want to recover my deleted files](#i-want-to-recover-my-deleted-files)
@@ -14,8 +14,8 @@ Here you’ll find answers to some of the most common questions from our users.
 ### FAQ list
 1. ##### Rollback to old version
     You can join the public testing channel to revert to the previous version and switch between versions from the settings of the new version at any time. After joining, you can still return to the new version whenever you wish. Please note that when joining the public testing channel, you may need to wait some time before receiving the update.
-    Pro version (public testing channel): https://play.google.com/apps/testing/com.github.superadb
-    Free version (public testing channel): https://play.google.com/apps/testing/com.github.standardadb
+    - Pro version (public testing channel): https://play.google.com/apps/testing/com.github.superadb
+    - Free version (public testing channel): https://play.google.com/apps/testing/com.github.standardadb
 
 2. ##### [Connection guide](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit)
 
