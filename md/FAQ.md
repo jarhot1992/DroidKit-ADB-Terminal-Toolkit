@@ -8,6 +8,7 @@ Here you’ll find answers to some of the most common questions from our users.
 5. [Why are there trackers?](#why-are-there-trackers)
 6. [How do I unlock my device?](#how-do-i-unlock-my-device)
 7. [I want to recover my deleted files](#i-want-to-recover-my-deleted-files)
+8. [Recover text messages or chat history](#recover-text-messages-or-chat-history)
 
 
 
@@ -34,3 +35,6 @@ Here you’ll find answers to some of the most common questions from our users.
 
 7. ##### I want to recover my deleted files
     We do not support the recovery of deleted files. Please contact your device manufacturer or use your system’s built-in backup and recovery options for further assistance.
+
+8. ##### Recover text messages or chat history
+    We’re unable to recover users’ text messages or chat history.
