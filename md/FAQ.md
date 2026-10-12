@@ -1,40 +1,86 @@
-Here you’ll find answers to some of the most common questions from our users.
+# Frequently Asked Questions
 
-### FAQ directory
-1. [Rollback to old version](#rollback-to-old-version)
-2. [Connection guide](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit)
-3. [Why are there ads](#why-are-there-ads)
-4. [Privacy Security](#privacy-security)
+Find answers to common questions about DroidKit, connections, editions, advertising, privacy, and supported use cases.
+
+[Back to DroidKit](../README.md) · [ADB setup guide](ConnectADBText.md) · [Changelog](Changelog.md)
+
+<a id="faq-directory"></a>
+
+## Contents
+
+1. [Roll back to an older version](#rollback-to-old-version)
+2. [Connection guide](#connection-guide)
+3. [Why are there ads?](#why-are-there-ads)
+4. [Privacy and security](#privacy-security)
 5. [Why are there trackers?](#why-are-there-trackers)
 6. [How do I unlock my device?](#how-do-i-unlock-my-device)
-7. [I want to recover my deleted files](#i-want-to-recover-my-deleted-files)
-8. [Recover text messages or chat history](#recover-text-messages-or-chat-history)
+7. [Can I recover deleted files?](#i-want-to-recover-my-deleted-files)
+8. [Can I recover text messages or chat history?](#recover-text-messages-or-chat-history)
 
+<a id="faq-list"></a>
+<a id="rollback-to-old-version"></a>
 
+## Roll Back to an Older Version
 
-### FAQ list
-1. ##### Rollback to old version
-    You can join the public testing channel to revert to the previous version and switch between versions from the settings of the new version at any time. After joining, you can still return to the new version whenever you wish. Please note that when joining the public testing channel, you may need to wait some time before receiving the update.
-    - Pro version (public testing channel): https://play.google.com/apps/testing/com.github.superadb
-    - Free version (public testing channel): https://play.google.com/apps/testing/com.github.standardadb
+You can join the public testing channel to return to the previous version. The newer version's settings let you switch between versions, and you can return to the newer version after joining. It may take some time for the update to appear.
 
-2. ##### [Connection guide](https://github.com/jarhot1992/DroidKit-ADB-Terminal-Toolkit)
+- [Pro edition public testing channel](https://play.google.com/apps/testing/com.github.superadb)
+- [Free edition public testing channel](https://play.google.com/apps/testing/com.github.standardadb)
 
-3. ##### Why are there ads
-    To support the continuous development and maintenance of the app, we rely on advertising revenue. This helps us keep the app running smoothly and improve it over time.
+This describes the existing version-switching workflow for these editions. Available builds and settings can vary by edition and release; contact [support](mailto:support@nextaix.com) if the option or expected update is unavailable.
 
-4. ##### Privacy Security
-   This app does not collect or upload any personal data. It has been reviewed and approved by Google, and the latest version offers significantly enhanced security compared to older versions.
+## Connection Guide
 
-5. ##### Why are there trackers
-   The trackers in the app come from the advertising SDKs, which are used only for measuring ad performance, not for collecting personal data. All SDKs have been reviewed and approved by Google, ensuring that no user information is leaked. We are committed to protecting your privacy and keeping your data safe.
+Start with the [connection tutorials](../README.md#enable-adb), then follow the [complete ADB setup guide](ConnectADBText.md) for device preparation, USB debugging, wireless debugging, and troubleshooting.
 
-6. ##### How do I unlock my device
-    We cannot assist with requests to bypass device security or licensing restrictions. Helping to unlock devices in ways that circumvent passwords, PINs, lock screens, or activation locks may be illegal and can put user data and device integrity at risk.
-    For legitimate assistance, please contact the device manufacturer, your carrier, or an authorized service center. They can verify ownership and provide safe, approved methods to regain access (you may be asked to provide proof of purchase or identity).
+Use a local connection for the device running DroidKit, or a remote connection for another Android device. Choose the video that matches the connection method you selected in the app.
 
-7. ##### I want to recover my deleted files
-    We do not support the recovery of deleted files. Please contact your device manufacturer or use your system’s built-in backup and recovery options for further assistance.
+## Why Are There Ads
 
-8. ##### Recover text messages or chat history
-    We’re unable to recover users’ text messages or chat history.
+Advertising helps fund ongoing development and maintenance. It supports keeping the app running smoothly and improving it over time.
+
+For available ad-removal options and Pro benefits, check the offer in your edition of the app.
+
+<a id="privacy-security"></a>
+
+## Privacy and Security
+
+**Developer statement:**
+
+> This app does not collect or upload any personal data. It has been reviewed and approved by Google, and the latest version offers significantly enhanced security compared to older versions.
+
+For current privacy disclosures, including third-party services, consult the [Privacy Policy](https://sites.google.com/view/droidkit-privacy) and the **Data safety** section of the [DroidKit Google Play listing](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox). The listing currently also declares that some data types may be collected; consult these disclosures alongside the retained statement above.
+
+## Why Are There Trackers
+
+**Developer statement:**
+
+> The trackers in the app come from the advertising SDKs, which are used only for measuring ad performance, not for collecting personal data. All SDKs have been reviewed and approved by Google, ensuring that no user information is leaked. We are committed to protecting your privacy and keeping your data safe.
+
+See the [Privacy Policy](https://sites.google.com/view/droidkit-privacy) and [Google Play Data safety disclosures](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox) for current details about data handling. Contact [support](mailto:support@nextaix.com) with the app edition and version if you need clarification about a specific SDK or disclosure.
+
+## How Do I Unlock My Device
+
+We cannot assist with bypassing device security or licensing restrictions. Circumventing passwords, PINs, lock screens, or activation locks may be illegal and can put device integrity and user data at risk.
+
+For legitimate access recovery, contact the manufacturer, your carrier, or an authorized service center. They can verify ownership and provide approved recovery methods; proof of purchase or identity may be required.
+
+DroidKit's screen-wake and known-password input actions are intended for devices you can already authorize and access. They do not recover a forgotten password or bypass an activation lock.
+
+<a id="i-want-to-recover-my-deleted-files"></a>
+
+## Can I Recover Deleted Files?
+
+DroidKit does not support recovering deleted files. Contact your device manufacturer or use the system's built-in backup and recovery options for assistance.
+
+File browsing, file transfer, and APK export work with available content; they do not recover deleted data.
+
+<a id="recover-text-messages-or-chat-history"></a>
+
+## Can I Recover Text Messages or Chat History?
+
+We cannot recover users' text messages or chat history.
+
+## Still Need Help?
+
+Use in-app feedback or email [support@nextaix.com](mailto:support@nextaix.com). Include the app edition and version, device model, Android version, connection method, and steps to reproduce the issue. Screenshots or diagnostic output are helpful when available.
