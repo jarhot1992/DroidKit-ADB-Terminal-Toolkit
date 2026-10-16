@@ -1,83 +1,91 @@
-# 📌 Changelog
+# Changelog
 
-All notable changes to this project will be documented in this file.
+<a id="-changelog"></a>
+
+Published release notes for DroidKit and its related editions. Historical entries are preserved below; this page is not a live list of every available build.
+
+[Back to DroidKit](../README.md) · [FAQ](FAQ.md) · [ADB setup guide](ConnectADBText.md)
 
 ## [4.0.18] 2025-11-04
-1. Fixed an issue where the TV remote was not working on Fire TV devices.
-2. Reduced ad frequency and set ads to mute by default to minimize user interruption.
-3. Improved system stability and overall performance.
-4. Optimized the video connection tutorial for a better user experience.
+
+- Fixed TV remote control on Fire TV devices.
+- Reduced ad frequency and muted ads by default to minimize interruptions.
+- Improved system stability and overall performance.
+- Improved the connection video tutorial.
 
 ## [4.0.16] 2025-09-25
-1. Shell Terminal: Added quick input for common symbols and multi-line input support.
-2. Text Improvements: Refined wording for better readability.
-3. Feature Favorites: Support for bookmarking Feature pages.
-4. File Page: Improved UI for a clearer experience.
-5. Terminal Interaction: Terminal page now supports full-page scrolling.
-6. Help Center: Reorganized and optimized help content.
-7. Onboarding: Added beginner tips for smoother first-time use.
-8. Stability: Fixed several crash issues.
+
+- Added quick input for common symbols and multiline input in the shell terminal.
+- Refined interface text for readability.
+- Added support for bookmarking feature pages.
+- Improved the file page interface for clarity.
+- Added full-page scrolling to the terminal page.
+- Reorganized and improved Help Center content.
+- Added beginner tips for first-time setup.
+- Fixed several crashes.
 
 ## [4.0.13] 2025-09-16
-1. ADB Update: Upgraded to 35.0.2, with support for 16K memory.
-2. Text Optimization: Improved some UI texts for better clarity.
-3. Core Libraries: Updated several core dependencies for enhanced stability and performance.
-4. UI Fixes: Fixed various UI issues.
-5. Command History: Added option to clear command history.
-6. System Apps: Now shows system apps by default.
-7. Battery Optimization: Added support to ignore battery optimization.
-8. Support firebase error log reporting.
+
+- Upgraded ADB to 35.0.2 with support for 16 KB memory pages.
+- Refined interface text for clarity.
+- Updated core dependencies for stability and performance.
+- Fixed interface issues.
+- Added an option to clear command history.
+- Showed system apps by default.
+- Added support for ignoring battery optimization.
+- Added Firebase error log reporting.
 
 ## [4.0.6] 2025-09-05
-1. Streamlined the connection process for greater ease of use.
-2. Enhanced connection stability for a more reliable experience.
+
+- Streamlined the connection process.
+- Improved connection stability and reliability.
 
 ## [4.0.3] 2025-08-22
-1. Users can now roll back to the old version if desired.
-2. Reduced ad frequency for a smoother experience.
-3. Added display of app installation source.
-4. Refined in-app texts for clarity.
-5. Enhanced overall app stability.
-6. Fixed email issue with unwanted `%20` characters.
-7. Added support for the **`uninstall --user 0`** option.
 
-## [1.1.12] 205-08-12
-1. Fixed some crashes and ANR issues.
-2. Optimized user experience.
-3. Improved the connection tutorial.
+- Added the option to roll back to an older version.
+- Reduced ad frequency.
+- Added display of the app installation source.
+- Refined in-app text for clarity.
+- Improved overall app stability.
+- Fixed unwanted `%20` characters in email content.
+- Added support for the `uninstall --user 0` option.
+
+<a id="1112-205-08-12"></a>
+
+## [1.1.12] 2025-08-12
+
+- Fixed crashes and application not responding (ANR) issues.
+- Improved the user experience.
+- Improved the connection tutorial.
 
 ## [1.1.9] 2025-08-07
-1. Fixed some crash issues.
-2. Improved the connection tutorial for a smoother setup experience.
-3. Optimized overall performance for better stability and speed.
+
+- Fixed crashes.
+- Improved the connection tutorial for smoother setup.
+- Improved performance, stability, and speed.
 
 ## [1.1.6] 2025-08-05
-1. 🔄 Brand-new connection process: The wireless connection method has been completely redesigned for improved stability and clearer operation.
-2. 🧭 New connection wizard: Step-by-step guidance helps you connect your device with ease — perfect for new users.
-3. 🛠️ Manual port configuration: If automatic port detection fails, you can now manually change the connection port.
-4. 📱 Enhanced compatibility: Better support for a wide range of brands and device models.
+
+- Redesigned the wireless connection process for greater stability and clearer operation.
+- Added a step-by-step connection wizard to help new users connect their devices.
+- Added manual port configuration when automatic detection fails.
+- Improved compatibility across device brands and models.
 
 ## [1.1.2] 2025-07-22
-1. 🎉 Watch an ad to unlock all professional features for free!
-2. 🔧 Improved connection stability for a smoother experience.
 
-## [1.0.1]  2025-07-11
-1. 📘 Added step-by-step tutorials to help users get started quickly
-2. 🚀 Improved overall user experience and performance
-3. 🛠️ Minor bug fixes and optimizations for smoother operation
+- Added the option to watch an ad to unlock all professional features for free.
+- Improved connection stability.
 
-## [1.0.0]  2025-07-10
+<a id="101--2025-07-11"></a>
 
-1. First public release with core features.
+## [1.0.1] 2025-07-11
 
+- Added step-by-step tutorials for getting started.
+- Improved the user experience and performance.
+- Fixed minor bugs and improved stability.
 
+<a id="100--2025-07-10"></a>
 
+## [1.0.0] 2025-07-10
 
-
-
-
-
-
-
-
-
+- Released the first public version with core features.
