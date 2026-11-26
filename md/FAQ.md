@@ -27,7 +27,7 @@ You can join the public testing channel to return to the previous version. The n
 - [Pro edition public testing channel](https://play.google.com/apps/testing/com.github.superadb)
 - [Free edition public testing channel](https://play.google.com/apps/testing/com.github.standardadb)
 
-This describes the existing version-switching workflow for these editions. Available builds and settings can vary by edition and release; contact [support](mailto:support@nextaix.com) if the option or expected update is unavailable.
+Available builds and settings can vary by edition and release. If the version switch or expected update is unavailable, contact [support](mailto:support@nextaix.com).
 
 ## Connection Guide
 
@@ -37,7 +37,7 @@ Use a local connection for the device running DroidKit, or a remote connection f
 
 ## Why Are There Ads
 
-Advertising helps fund ongoing development and maintenance. It supports keeping the app running smoothly and improving it over time.
+Ads help fund development and maintenance so we can keep the app running smoothly and improve it over time.
 
 For available ad-removal options and Pro benefits, check the offer in your edition of the app.
 

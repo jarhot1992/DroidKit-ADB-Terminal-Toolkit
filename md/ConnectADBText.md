@@ -12,7 +12,7 @@ This guide covers **Android 4.x through Android 14** setup instructions for **US
 
 - **Local connection:** use DroidKit to work with the Android device running the app. Follow the selected Terminal, Universal, or Shizuku method in the [video guides](../README.md#android11).
 - **Remote connection:** use DroidKit to manage another Android device, such as a phone or TV box. Follow the remote Terminal or Universal video guide and enable debugging on the target device.
-- **Computer connection:** use the Platform Tools and computer-side command examples below for a desktop ADB workflow. A computer is not a prerequisite for every DroidKit connection method.
+- **Computer connection:** to run ADB commands from a computer, use Platform Tools and the examples below. Some DroidKit connection methods work without a computer.
 
 Shizuku is a local connection option; its linked guide covers Android 11+. For TV boxes and smart TVs, also see the [illustrated TV setup guide](https://github.com/jarhot1992/Remote-ADB/blob/main/md/openTVADB.md).
 

@@ -4,15 +4,11 @@
 
 **Your Android command center.**
 
-Manage apps, run powerful shell commands, control Android TV, transfer files, and diagnose device issues—all in one toolkit.
-
-DroidKit brings everyday device management and advanced ADB tools into one interface. Troubleshoot an app, investigate background activity, send files to another device, or turn your phone into an Android TV remote. Start with visual tools, then open the terminal when you need more control.
-
-This companion repository provides connection tutorials, FAQs, release notes, and a feedback hub to help you get more from DroidKit.
+Manage apps, run shell commands, control Android TV, transfer files, and troubleshoot Android devices.
 
 ## Download
 
-- [Pro Edition](https://play.google.com/store/apps/details?id=com.github.superadb)
+- [ADB Shell - Debug Toolbox Pro](https://play.google.com/store/apps/details?id=com.github.superadb)
 - [DroidKit: ADB Terminal Toolkit](https://play.google.com/store/apps/details?id=com.nextaix.androidtoolbox)
 - [ADB Shell - Debug Toolbox](https://play.google.com/store/apps/details?id=com.github.standardadb)
 
@@ -30,11 +26,14 @@ Optimize your settings and track your gaming performance with a game booster & F
 
 ## Why DroidKit?
 
-- **One place for your Android workflow.** Connect, manage, control, inspect, and configure devices without jumping between separate tools.
-- **A terminal that keeps up with you.** Work across multiple sessions with command history, smart suggestions, path completion, and reusable shell environment profiles.
-- **Go beyond an app list.** Inspect processes, manage startup and background behavior, and use advanced application actions from the same toolkit.
-- **Make Android TV easier to use.** Navigate with your phone, enter multilingual text, and adjust volume without typing through an on-screen remote.
-- **See what is happening.** Combine live CPU and memory monitoring with screenshots, storage analysis, and system diagnostics.
+Use DroidKit's built-in controls to manage devices, or open Terminal to run commands.
+
+- Keep several terminal tabs open. Rerun commands from history, use suggestions and path completion to save typing, and reuse your shell environment profiles.
+- Inspect running apps and processes, manage startup and background activity, and use advanced app controls.
+- Use your phone to navigate Android TV, type in multiple languages, and adjust the volume.
+- Monitor CPU and memory in real time, take screenshots, check storage usage, and run diagnostics.
+
+This repository includes connection guides, FAQs, release notes, and ways to send feedback.
 
 ## Complete Feature Set
 
@@ -45,7 +44,7 @@ Connect to the device running DroidKit or manage another Android device over ADB
 - Choose **Terminal**, **Universal**, or **Shizuku** connection methods. Shizuku is a local connection option with an Android 11+ guide.
 - Pair through wireless debugging on supported devices, or use the traditional ADB TCP/IP workflow.
 - Add, select, switch, and disconnect devices, with visibility into the current connection status.
-- Update the connection port manually when automatic detection does not find the current endpoint.
+- If DroidKit can't detect the connection port automatically when you use wireless debugging, enter the port shown on the **Wireless debugging** screen.
 
 ### Professional Terminal
 
@@ -68,7 +67,7 @@ Take control of installed apps and inspect the details behind each package.
 - Use the **`uninstall --user 0`** option when you need to remove an app for the primary Android user.
 - Open app settings and access or share the app's Google Play listing.
 
-Advanced actions depend on the Android version, device permissions, and package. Protected system apps have operation restrictions.
+Advanced actions depend on the Android version, device permissions, and package. Some actions are restricted for protected system apps.
 
 ### Running Apps, Processes, and Startup Management
 
@@ -83,10 +82,8 @@ Availability varies by device and Android version; system restrictions can preve
 
 ### Files and Storage
 
-Keep file transfers and storage maintenance in the same workflow.
-
-- Browse device files and local files on the device running DroidKit.
-- Pull files from a connected device and push local files to it.
+- Browse files on the connected device or on the device running DroidKit.
+- Pull files from the connected device or push files to it from the device running DroidKit.
 - Inspect file details and sort files to find the content you need.
 - View total, used, and free storage, with usage grouped by content category.
 - Locate large files and clear supported caches to reclaim storage.
@@ -101,10 +98,8 @@ Capture a result, record a device state, or collect evidence for a bug report.
 
 ### Android TV Remote, Text Input, and Volume
 
-Use your phone to make big-screen navigation and typing more convenient.
-
-- Control Android TV and TV boxes through remote layouts, directional navigation, and key actions.
-- Enter text in Chinese and other languages instead of selecting characters with the TV remote.
+- Use **TV Remote** on your phone to control Android TV and TV boxes with directional controls and remote buttons. Change the remote layout in Settings.
+- Type in Chinese and other languages on your phone instead of selecting characters with the TV remote.
 - Adjust media, ringtone, call, and other supported volume channels.
 
 The target device must accept an authorized ADB connection. Input and volume capabilities depend on the target device.
@@ -148,7 +143,7 @@ Get a quick overview, then inspect the system in depth.
 - Inspect hardware, model, Android version, build details, battery, and storage information.
 - Export system information for troubleshooting and documentation.
 - Run diagnostics for battery, display, power, applications, memory, CPU, connectivity, Wi-Fi, Bluetooth, sensors, audio, and other Android services.
-- Access system inspection commands such as `dumpsys`, `df`, `mount`, `uptime`, and `/proc` information.
+- Run system inspection commands such as `dumpsys`, `df`, `mount`, and `uptime`, and read system information from `/proc`.
 
 Diagnostic output depends on the services and permissions available on the connected device.
 
@@ -218,7 +213,7 @@ For older devices, follow the USB setup and traditional TCP/IP instructions. The
 
 ### TV Box / Smart TV
 
-Enable debugging on the TV or box, then use the remote connection workflow. Menu names and wireless debugging availability vary by model and Android version.
+Enable debugging on the TV or box, then connect to it remotely in DroidKit. Menu names and wireless debugging availability vary by model and Android version.
 
 - [Official ADB documentation](https://developer.android.com/studio/command-line/adb)
 - [Complete text setup guide](md/ConnectADBText.md)
