@@ -24,6 +24,20 @@ Optimize your settings and track your gaming performance with a game booster & F
 
 [**Get Mr. Zero on Google Play →**](https://play.google.com/store/apps/details?id=com.nextaix.game_booster)
 
+## Enable Wireless Debugging from a Computer (Android 5.0+)
+
+Open Wireless Debugging (ADB USB to Wi-Fi) lets you turn on wireless ADB from a Windows, macOS, or Linux computer without typing commands.
+
+1. Turn on **USB debugging** on your phone, connect it with a USB data cable, and tap **Allow** when prompted.
+2. Open the desktop tool, select your phone, and click **Enable wireless debugging**. Wait for **Wireless debugging is on**, then unplug the cable.
+3. Open the Android ADB app, turn off pairing, and connect on port `5555`. To connect to another phone, use that phone's IP address and put both phones on the same Wi-Fi network. To connect to the phone you're using, enter `127.0.0.1`.
+
+[Download on GitHub](https://github.com/jarhot1992/adb-usb-to-wifi) · [Setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging)
+
+The phone you connect to must run Android 5.0 or later and allow USB debugging. The current Android app requires Android 7.0 or later. To connect to an Android 5 or 6 phone, install the app on another phone running Android 7.0 or later.
+
+This tool enables ADB over TCP/IP on port `5555`. Android 11+ also offers wireless pairing in Settings, which uses the ports shown on the phone. For DroidKit's connection settings, follow [the traditional connection guide](md/ConnectADBText.md#enable-wireless-debugging-from-a-computer-android-50).
+
 ## Why DroidKit?
 
 Use DroidKit's built-in controls to manage devices, or open Terminal to run commands.
@@ -181,6 +195,10 @@ Editing depends on shell permissions; some properties and settings are read-only
 **Local connection** means working with the device running DroidKit. **Remote connection** means managing another Android device, such as a phone or TV box, over an authorized ADB connection.
 
 Choose the tutorial that matches the target device and connection method. The Android versions below describe connection workflows, not DroidKit's minimum installation requirements.
+
+[Open Wireless Debugging (ADB USB to Wi-Fi)](https://github.com/jarhot1992/adb-usb-to-wifi) turns on wireless ADB from a Windows, macOS, or Linux computer. Connect your phone over USB for setup, then use port `5555` with pairing turned off.
+
+Follow the [setup guide](https://nextaix.com/adb-help/tutorials/open-wireless-debugging), then [connect in DroidKit](md/ConnectADBText.md#enable-wireless-debugging-from-a-computer-android-50). The connection guide explains how to allow USB debugging, which Android versions are supported, and how to connect to your own phone or another phone.
 
 <a id="android11"></a>
 

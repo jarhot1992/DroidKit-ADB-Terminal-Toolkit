@@ -35,6 +35,8 @@ Start with the [connection tutorials](../README.md#enable-adb), then follow the 
 
 Use a local connection for the device running DroidKit, or a remote connection for another Android device. Choose the video that matches the connection method you selected in the app.
 
+With a computer, you can [turn on wireless ADB for an Android 5.0+ phone](ConnectADBText.md#enable-wireless-debugging-from-a-computer-android-50) without typing commands. See the [connection guide](ConnectADBText.md#enable-wireless-debugging-from-a-computer-android-50) for Android app requirements and how to connect to an Android 5 or 6 phone.
+
 ## Why Are There Ads
 
 Ads help fund development and maintenance so we can keep the app running smoothly and improve it over time.
